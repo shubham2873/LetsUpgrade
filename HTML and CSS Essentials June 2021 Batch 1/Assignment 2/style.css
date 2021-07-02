@@ -1,0 +1,32 @@
+body {
+	background-color: powderblue;
+}
+
+.parent {
+	background-color: grey;
+	border: 5px solid black;
+}
+
+.child1 {
+	background-color: green;
+	border: 5px dotted black;
+	margin-top: 10px;
+}
+
+.child2 {
+	background-color: yellow;
+	border: 5px dashed black;
+	margin-top: 10px;
+}
+
+.child3 {
+	background-color: orange;
+	border: 5px dotted; black;
+	margin: 10px 0px 10px 0px;
+}
+
+#p3 {
+	color: blueviolet;
+	font-size: 20px;
+	font-family: sans-serif;
+}
