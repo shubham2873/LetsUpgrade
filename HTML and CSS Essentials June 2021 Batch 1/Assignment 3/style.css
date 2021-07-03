@@ -1,0 +1,42 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.h1 {
+    background-color: yellow;
+    text-align: center;
+    font-size: 40px;
+}
+
+.parent1 {
+    height: 300px;
+    width: 100%;
+    background-color: gray;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.ele1 {
+    height: 200px;
+    width: 15%;
+    background-color: red;
+}
+
+.parent2 {
+    height: 300px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    padding: 30px 0;
+    align-items: center;
+}
+
+.ele2 {
+    height: 200px;
+    width: 20%;
+    background-color: gray;
+    display: inline-block;
+    margin: auto;
+}
